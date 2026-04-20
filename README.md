@@ -34,6 +34,8 @@ Our vision is to revolutionize health data sovereignty by:
 ## Contract Details
 
 * **Contract ID**: `CDVU2YJMPDCQVR4X6NANO3HZAYW4MSTYP6UJRYV73Q7XQIGHBZRQGT6D`
+  ![Execution Screenshot](Screenshot.png)
+  ![Execution StellarNet](Screenshot2.png)
 * **Network**: Stellar Testnet
 
 ## Support for SDG (Sustainable Development Goals)
